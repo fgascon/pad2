@@ -1,9 +1,12 @@
 {
   "name": "pad2",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Pad left numbers with zero to a length of 2",
   "main": "index.js",
-  "keywords": ["pad", "pad-left"],
+  "keywords": [
+    "pad",
+    "pad-left"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fgascon/pad2.git"
